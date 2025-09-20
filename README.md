@@ -71,7 +71,8 @@ Minecraft による相模原キャンパス再現は、防災教育の新しい�
 本研究で参照した文献一覧は以下のスプレッドシートにまとめています。  
 - [参考文献リスト（Google Spreadsheet）](https://docs.google.com/spreadsheets/d/1T4lQaiRjB_lgEmYxRj0COExgHsigV41V6uFRIXxa4po/edit?usp=sharing)
 )  
-- 参考資料: 青山学院大学相模原キャンパス地図  
+<img width="270" height="270" alt="QR_347564" src="https://github.com/user-attachments/assets/c165606a-768f-42ac-b75b-81aea26e8f48" />
+ 
 - 柴山伊吹氏 卒論レポジトリ: [2022gsc_IbukiShibayama](https://github.com/furuhashilab/2022gsc_IbukiShibayama)  
 
 ---
