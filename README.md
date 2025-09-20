@@ -78,6 +78,8 @@ Minecraft による相模原キャンパス再現は、防災教育の新しい�
 ---
 
 ## License
-本文・図版：**CC BY 4.0**  
-コード（ある場合）：別途ライセンスを明記
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 
