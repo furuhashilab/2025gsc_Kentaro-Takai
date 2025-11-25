@@ -1,6 +1,6 @@
 # 2025gsc_Kentaro-Takai
 2025年度古橋卒論用レポジトリ
-# Minecraftを用いた青学相模原キャンパスB棟の教育・防災活用を見据えた空間再現
+# Minecraftを用いた青学相模原キャンパスB棟の教育・防災活用を見据えた内部空間再現
   
 **Modeling the Aoyama Gakuin University Sagamihara Campus in Minecraft and Its Application to Disaster Education**
 
