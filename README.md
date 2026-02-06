@@ -247,12 +247,8 @@ Bedrock Edition を介した複数の移行手法を検証した。
 その結果、本研究で再現した建物内部空間について、
 Minecraft Education Edition 上で問題なく表示・移動できる状態を構築することができた。
 
-また、Education Edition 上で利用可能なワールドデータを
-.mcworld 形式で作成し、GitHub の Releases 機能を用いて公開した。
-本リポジトリに掲載した README および Issue に記載の手順に従い、
-当該ファイルをインポートすることで、
-第三者が Minecraft Education Edition 上で
-本研究のワールドを利用できることを確認した。
+また、Education Edition 上で利用可能なワールドデータを.mcworld 形式で作成し、GitHub の Releases 機能を用いて公開した。
+当該ファイルをインポートすることで、第三者が Minecraft Education Edition 上で本研究のワールドを利用できることを確認した。
 
 
 **5.結果の整理**
